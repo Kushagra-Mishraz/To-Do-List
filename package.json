@@ -1,6 +1,6 @@
 {
   "name": "to_do_list",
-  "homepage": "https://Kushagra-Mishraz.github.io/Nashta",
+  "homepage": "https://Kushagra-Mishraz.github.io/To_Do_List",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
